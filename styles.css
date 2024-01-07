@@ -4,7 +4,6 @@
   word-spacing: 0.5px;
   margin: 0;
   padding: 0;
-  /* outline: 1px solid green; */
 }
 
 .nav-link{
@@ -86,5 +85,19 @@ code:last-child{
   margin-bottom: 100px;
 }
 
+@media (max-width: 815px) {
+  #navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    overflow-y: auto;
+    border-right: none; 
+  }
 
 
+  body {
+    margin-top: 300px; 
+  }
+}
