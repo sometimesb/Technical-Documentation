@@ -20,4 +20,4 @@ Super simple project. I just used the following:
 
 ## LIVE PREVIEW:
 To access a live preview, kindly click the link.
-https://bilalzakaria.github.io/Technical-Documentation/
+https://sometimesb.github.io/Technical-Documentation/
